@@ -1,0 +1,206 @@
+	[
+		{
+			"number": 11,
+			"name": "Aceh",
+			"capital": "Banda Aceh",
+			"country_code": "number"
+		},
+		{
+			"number": 12,
+			"name": "Sumatera Utara",
+			"capital": "Medan",
+			"country_code": "number"
+		},
+		{
+			"number": 13,
+			"name": "Sumatera Barat",
+			"capital": "Padang",
+			"country_code": "number"
+		},
+		{
+			"number": 14,
+			"name": "Riau",
+			"capital": "Pekanbaru",
+			"country_code": "number"
+		},
+		{
+			"number": 15,
+			"name": "Jambi",
+			"capital": "Jambi",
+			"country_code": "number"
+		},
+		{
+			"number": 16,
+			"name": "Sumatera Selatan",
+			"capital": "Palembang",
+			"country_code": "number"
+		},
+		{
+			"number": 17,
+			"name": "Bengkulu",
+			"capital": "Bengkulu",
+			"country_code": "number"
+		},
+		{
+			"number": 18,
+			"name": "Lampung",
+			"capital": "Bandar Lampung",
+			"country_code": "number"
+		},
+		{
+			"number": 19,
+			"name": "Kepulauan Bangka Belitung",
+			"capital": "Pangkal Pinang",
+			"country_code": "number"
+		},
+		{
+			"number": 21,
+			"name": "Kepulauan Riau",
+			"capital": "Tanjung Pinang",
+			"country_code": "number"
+		},
+		{
+			"number": 31,
+			"name": "DKI Jakarta",
+			"capital": "Jakarta",
+			"country_code": "number"
+		},
+		{
+			"number": 32,
+			"name": "Jawa Barat",
+			"capital": "Bandung",
+			"country_code": "number"
+		},
+		{
+			"number": 33,
+			"name": "Jawa Tengah",
+			"capital": "Semarang",
+			"country_code": "number"
+		},
+		{
+			"number": 34,
+			"name": "D.I. Yogyakarta",
+			"capital": "Yogyakarta",
+			"country_code": "number"
+		},
+		{
+			"number": 35,
+			"name": "Jawa Timur",
+			"capital": "Surabaya",
+			"country_code": "number"
+		},
+		{
+			"number": 36,
+			"name": "Banten",
+			"capital": "Serang",
+			"country_code": "number"
+		},
+		{
+			"number": 51,
+			"name": "Bali",
+			"capital": "Denpasar",
+			"country_code": "number"
+		},
+		{
+			"number": 52,
+			"name": "Nusa Tenggara Barat",
+			"capital": "Mataram",
+			"country_code": "number"
+		},
+		{
+			"number": 53,
+			"name": "Nusa Tenggara Timur",
+			"capital": "Kupang",
+			"country_code": "number"
+		},
+		{
+			"number": 61,
+			"name": "Kalimantan Barat",
+			"capital": "Pontianak",
+			"country_code": "number"
+		},
+		{
+			"number": 62,
+			"name": "Kalimantan Tengah",
+			"capital": "Palangkaraya",
+			"country_code": "number"
+		},
+		{
+			"number": 63,
+			"name": "Kalimantan Selatan",
+			"capital": "Banjarmasin",
+			"country_code": "number"
+		},
+		{
+			"number": 64,
+			"name": "Kalimantan Timur",
+			"capital": "Samarinda",
+			"country_code": "number"
+		},
+		{
+			"number": 65,
+			"name": "Kalimantan Utara",
+			"capital": "Bulungan",
+			"country_code": "number"
+		},
+		{
+			"number": 71,
+			"name": "Sulawesi Utara",
+			"capital": "Manado",
+			"country_code": "number"
+		},
+		{
+			"number": 72,
+			"name": "Sulawesi Tengah",
+			"capital": "Palu",
+			"country_code": "number"
+		},
+		{
+			"number": 73,
+			"name": "Sulawesi Selatan",
+			"capital": "Makassar",
+			"country_code": "number"
+		},
+		{
+			"number": 74,
+			"name": "Sulawesi Tenggara",
+			"capital": "Kendari",
+			"country_code": "number"
+		},
+		{
+			"number": 75,
+			"name": "Gorontalo",
+			"capital": "Gorontalo",
+			"country_code": "number"
+		},
+		{
+			"number": 76,
+			"name": "Sulawesi Barat",
+			"capital": "Mamuju",
+			"country_code": "number"
+		},
+		{
+			"number": 81,
+			"name": "Maluku",
+			"capital": "Ambon",
+			"country_code": "number"
+		},
+		{
+			"number": 82,
+			"name": "Maluku Utara",
+			"capital": "Ternate",
+			"country_code": "number"
+		},
+		{
+			"number": 91,
+			"name": "Papua Barat",
+			"capital": "Manokwari",
+			"country_code": "number"
+		},
+		{
+			"number": 94,
+			"name": "Papua",
+			"capital": "Jayapura",
+			"country_code": "number"
+		}
+	]
