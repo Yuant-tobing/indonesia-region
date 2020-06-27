@@ -1,0 +1,5002 @@
+	[
+		{
+			"number": 1101010,
+			"name": "Teupah Selatan",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101020,
+			"name": "Simeulue Timur",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101021,
+			"name": "Teupah Barat",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101022,
+			"name": "Teupah Tengah",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101030,
+			"name": "Simeulue Tengah",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101031,
+			"name": "Teluk Dalam",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101032,
+			"name": "Simeulue Cut",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101040,
+			"name": "Salang",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101050,
+			"name": "Simeulue Barat",
+			"regency_id": 1101
+		},
+		{
+			"number": 1101051,
+			"name": "Alafan",
+			"regency_id": 1101
+		},
+		{
+			"number": 1102010,
+			"name": "Pulau Banyak",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102011,
+			"name": "Pulau Banyak Barat",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102020,
+			"name": "Singkil",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102021,
+			"name": "Singkil Utara",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102022,
+			"name": "Kuala Baru",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102030,
+			"name": "Simpang Kanan",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102031,
+			"name": "Gunung Meriah",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102032,
+			"name": "Danau Paris",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102033,
+			"name": "Suro",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102042,
+			"name": "Singkohor",
+			"regency_id": 1102
+		},
+		{
+			"number": 1102043,
+			"name": "Kota Baharu",
+			"regency_id": 1102
+		},
+		{
+			"number": 1103010,
+			"name": "Trumon",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103011,
+			"name": "Trumon Timur",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103012,
+			"name": "Trumon Tengah",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103020,
+			"name": "Bakongan",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103021,
+			"name": "Bakongan Timur",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103022,
+			"name": "Kota Bahagia",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103030,
+			"name": "Kluet Selatan",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103031,
+			"name": "Kluet Timur",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103040,
+			"name": "Kluet Utara",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103041,
+			"name": "Pasie Raja",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103042,
+			"name": "Kluet Tengah",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103050,
+			"name": "Tapak Tuan",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103060,
+			"name": "Sama Dua",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103070,
+			"name": "Sawang",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103080,
+			"name": "Meukek",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103090,
+			"name": "Labuhan Haji",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103091,
+			"name": "Labuhan Haji Timur",
+			"regency_id": 1103
+		},
+		{
+			"number": 1103092,
+			"name": "Labuhan Haji Barat",
+			"regency_id": 1103
+		},
+		{
+			"number": 1104010,
+			"name": "Lawe Alas",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104011,
+			"name": "Babul Rahmah",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104012,
+			"name": "Tanoh Alas",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104020,
+			"name": "Lawe Sigala-gala",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104021,
+			"name": "Babul Makmur",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104022,
+			"name": "Semadam",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104023,
+			"name": "Leuser",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104030,
+			"name": "Bambel",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104031,
+			"name": "Bukit Tusam",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104032,
+			"name": "Lawe Sumur",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104040,
+			"name": "Babussalam",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104041,
+			"name": "Lawe Bulan",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104050,
+			"name": "Badar",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104051,
+			"name": "Darul Hasanah",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104052,
+			"name": "Ketambe",
+			"regency_id": 1104
+		},
+		{
+			"number": 1104053,
+			"name": "Deleng Pokhkisen",
+			"regency_id": 1104
+		},
+		{
+			"number": 1105080,
+			"name": "Serba Jadi",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105081,
+			"name": "Simpang Jernih",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105082,
+			"name": "Peunaron",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105090,
+			"name": "Birem Bayeun",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105100,
+			"name": "Rantau Selamat",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105101,
+			"name": "Sungai Raya",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105110,
+			"name": "Peureulak",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105111,
+			"name": "Peureulak Timur",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105112,
+			"name": "Peureulak Barat",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105120,
+			"name": "Ranto Peureulak",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105130,
+			"name": "Idi Rayeuk",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105131,
+			"name": "Peudawa",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105132,
+			"name": "Banda Alam",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105133,
+			"name": "Idi Tunong",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105134,
+			"name": "Darul Ihsan",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105135,
+			"name": "Idi Timur",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105140,
+			"name": "Darul Aman",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105150,
+			"name": "Nurussalam",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105151,
+			"name": "Darul Falah",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105160,
+			"name": "Julok",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105161,
+			"name": "Indra Makmur",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105170,
+			"name": "Pante Bidari",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105180,
+			"name": "Simpang Ulim",
+			"regency_id": 1105
+		},
+		{
+			"number": 1105181,
+			"name": "Madat",
+			"regency_id": 1105
+		},
+		{
+			"number": 1106010,
+			"name": "Linge",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106011,
+			"name": "Atu Lintang",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106012,
+			"name": "Jagong Jeget",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106020,
+			"name": "Bintang",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106031,
+			"name": "Lut Tawar",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106032,
+			"name": "Kebayakan",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106040,
+			"name": "Pegasing",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106041,
+			"name": "Bies",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106050,
+			"name": "Bebesen",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106051,
+			"name": "Kute Panang",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106060,
+			"name": "Silih Nara",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106061,
+			"name": "Ketol",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106062,
+			"name": "Celala",
+			"regency_id": 1106
+		},
+		{
+			"number": 1106063,
+			"name": "Rusip Antara",
+			"regency_id": 1106
+		},
+		{
+			"number": 1107050,
+			"name": "Johan Pahlawan",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107060,
+			"name": "Samatiga",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107061,
+			"name": "Bubon",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107062,
+			"name": "Arongan Lambalek",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107070,
+			"name": "Woyla",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107071,
+			"name": "Woyla Barat",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107072,
+			"name": "Woyla Timur",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107080,
+			"name": "Kaway Xvi",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107081,
+			"name": "Meureubo",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107082,
+			"name": "Pantai Ceuremen",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107083,
+			"name": "Panton Reu",
+			"regency_id": 1107
+		},
+		{
+			"number": 1107090,
+			"name": "Sungai Mas",
+			"regency_id": 1107
+		},
+		{
+			"number": 1108010,
+			"name": "Lhoong",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108020,
+			"name": "Lhoknga",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108021,
+			"name": "Leupung",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108030,
+			"name": "Indrapuri",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108031,
+			"name": "Kuta Cot Glie",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108040,
+			"name": "Seulimeum",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108041,
+			"name": "Kota Jantho",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108042,
+			"name": "Lembah Seulawah",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108050,
+			"name": "Mesjid Raya",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108060,
+			"name": "Darussalam",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108061,
+			"name": "Baitussalam",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108070,
+			"name": "Kuta Baro",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108080,
+			"name": "Montasik",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108081,
+			"name": "Blang Bintang",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108090,
+			"name": "Ingin Jaya",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108091,
+			"name": "Krueng Barona Jaya",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108100,
+			"name": "Suka Makmur",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108101,
+			"name": "Kuta Malaka",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108102,
+			"name": "Simpang Tiga",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108110,
+			"name": "Darul Imarah",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108111,
+			"name": "Darul Kamal",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108120,
+			"name": "Peukan Bada",
+			"regency_id": 1108
+		},
+		{
+			"number": 1108130,
+			"name": "Pulo Aceh",
+			"regency_id": 1108
+		},
+		{
+			"number": 1109010,
+			"name": "Geumpang",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109011,
+			"name": "Mane",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109070,
+			"name": "Glumpang Tiga",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109071,
+			"name": "Glumpang Baro",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109080,
+			"name": "Mutiara",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109081,
+			"name": "Mutiara Timur",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109090,
+			"name": "Tiro/truseb",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109100,
+			"name": "Tangse",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109111,
+			"name": "Keumala",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109112,
+			"name": "Titeue",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109120,
+			"name": "Sakti",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109130,
+			"name": "Mila",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109140,
+			"name": "Padang Tiji",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109150,
+			"name": "Delima",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109151,
+			"name": "Grong Grong",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109160,
+			"name": "Indrajaya",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109170,
+			"name": "Peukan Baro",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109180,
+			"name": "Kembang Tanjong",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109190,
+			"name": "Simpang Tiga",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109200,
+			"name": "Kota Sigli",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109210,
+			"name": "Pidie",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109220,
+			"name": "Batee",
+			"regency_id": 1109
+		},
+		{
+			"number": 1109230,
+			"name": "Muara Tiga",
+			"regency_id": 1109
+		},
+		{
+			"number": 1110010,
+			"name": "Samalanga",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110011,
+			"name": "Simpang Mamplam",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110020,
+			"name": "Pandrah",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110030,
+			"name": "Jeunieb",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110031,
+			"name": "Peulimbang",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110040,
+			"name": "Peudada",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110050,
+			"name": "Juli",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110060,
+			"name": "Jeumpa",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110061,
+			"name": "Kota Juang",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110062,
+			"name": "Kuala",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110070,
+			"name": "Jangka",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110080,
+			"name": "Peusangan",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110081,
+			"name": "Peusangan Selatan",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110082,
+			"name": "Peusangan Siblah Krueng",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110090,
+			"name": "Makmur",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110100,
+			"name": "Ganda Pura",
+			"regency_id": 1110
+		},
+		{
+			"number": 1110101,
+			"name": "Kuta Blang",
+			"regency_id": 1110
+		},
+		{
+			"number": 1111010,
+			"name": "Sawang",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111020,
+			"name": "Nisam",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111021,
+			"name": "Nisam Antara",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111022,
+			"name": "Banda Baro",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111030,
+			"name": "Kuta Makmur",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111031,
+			"name": "Simpang Keramat",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111040,
+			"name": "Syamtalira Bayu",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111041,
+			"name": "Geureudong Pase",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111050,
+			"name": "Meurah Mulia",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111060,
+			"name": "Matangkuli",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111061,
+			"name": "Paya Bakong",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111062,
+			"name": "Pirak Timu",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111070,
+			"name": "Cot Girek",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111080,
+			"name": "Tanah Jambo Aye",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111081,
+			"name": "Langkahan",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111090,
+			"name": "Seunuddon",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111100,
+			"name": "Baktiya",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111101,
+			"name": "Baktiya Barat",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111110,
+			"name": "Lhoksukon",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111120,
+			"name": "Tanah Luas",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111121,
+			"name": "Nibong",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111130,
+			"name": "Samudera",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111140,
+			"name": "Syamtalira Aron",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111150,
+			"name": "Tanah Pasir",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111151,
+			"name": "Lapang",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111160,
+			"name": "Muara Batu",
+			"regency_id": 1111
+		},
+		{
+			"number": 1111170,
+			"name": "Dewantara",
+			"regency_id": 1111
+		},
+		{
+			"number": 1112010,
+			"name": "Manggeng",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112011,
+			"name": "Lembah Sabil",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112020,
+			"name": "Tangan-tangan",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112021,
+			"name": "Setia",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112030,
+			"name": "Blang Pidie",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112031,
+			"name": "Jeumpa",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112040,
+			"name": "Susoh",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112050,
+			"name": "Kuala Batee",
+			"regency_id": 1112
+		},
+		{
+			"number": 1112060,
+			"name": "Babah Rot",
+			"regency_id": 1112
+		},
+		{
+			"number": 1113010,
+			"name": "Kuta Panjang",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113011,
+			"name": "Blang Jerango",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113020,
+			"name": "Blangkejeren",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113021,
+			"name": "Putri Betung",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113022,
+			"name": "Dabun Gelang",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113023,
+			"name": "Blang Pegayon",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113030,
+			"name": "Pining",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113040,
+			"name": "Rikit Gaib",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113041,
+			"name": "Pantan Cuaca",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113050,
+			"name": "Terangun",
+			"regency_id": 1113
+		},
+		{
+			"number": 1113051,
+			"name": "Tripe Jaya",
+			"regency_id": 1113
+		},
+		{
+			"number": 1114010,
+			"name": "Tamiang Hulu",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114011,
+			"name": "Bandar Pusaka",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114020,
+			"name": "Kejuruan Muda",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114021,
+			"name": "Tenggulun",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114030,
+			"name": "Rantau",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114040,
+			"name": "Kota Kuala Simpang",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114050,
+			"name": "Seruway",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114060,
+			"name": "Bendahara",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114061,
+			"name": "Banda Mulia",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114070,
+			"name": "Karang Baru",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114071,
+			"name": "Sekerak",
+			"regency_id": 1114
+		},
+		{
+			"number": 1114080,
+			"name": "Manyak Payed",
+			"regency_id": 1114
+		},
+		{
+			"number": 1115010,
+			"name": "Darul Makmur",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115011,
+			"name": "Tripa Makmur",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115020,
+			"name": "Kuala",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115021,
+			"name": "Kuala Pesisir",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115022,
+			"name": "Tadu Raya",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115030,
+			"name": "Beutong",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115031,
+			"name": "Beutong Ateuh Banggalang",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115040,
+			"name": "Seunagan",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115041,
+			"name": "Suka Makmue",
+			"regency_id": 1115
+		},
+		{
+			"number": 1115050,
+			"name": "Seunagan Timur",
+			"regency_id": 1115
+		},
+		{
+			"number": 1116010,
+			"name": "Teunom",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116011,
+			"name": "Pasie Raya",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116020,
+			"name": "Panga",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116030,
+			"name": "Krueng Sabee",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116040,
+			"name": "Setia Bakti",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116050,
+			"name": "Sampoiniet",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116051,
+			"name": "Darul Hikmah",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116060,
+			"name": "Jaya",
+			"regency_id": 1116
+		},
+		{
+			"number": 1116061,
+			"name": "Indra Jaya",
+			"regency_id": 1116
+		},
+		{
+			"number": 1117010,
+			"name": "Timang Gajah",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117011,
+			"name": "Gajah Putih",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117020,
+			"name": "Pintu Rime Gayo",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117030,
+			"name": "Bukit",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117040,
+			"name": "Wih Pesam",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117050,
+			"name": "Bandar",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117051,
+			"name": "Bener Kelipah",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117060,
+			"name": "Syiah Utama",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117061,
+			"name": "Mesidah",
+			"regency_id": 1117
+		},
+		{
+			"number": 1117070,
+			"name": "Permata",
+			"regency_id": 1117
+		},
+		{
+			"number": 1118010,
+			"name": "Meureudu",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118020,
+			"name": "Meurah Dua",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118030,
+			"name": "Bandar Dua",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118040,
+			"name": "Jangka Buya",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118050,
+			"name": "Ulim",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118060,
+			"name": "Trienggadeng",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118070,
+			"name": "Panteraja",
+			"regency_id": 1118
+		},
+		{
+			"number": 1118080,
+			"name": "Bandar Baru",
+			"regency_id": 1118
+		},
+		{
+			"number": 1171010,
+			"name": "Meuraxa",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171011,
+			"name": "Jaya Baru",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171012,
+			"name": "Banda Raya",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171020,
+			"name": "Baiturrahman",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171021,
+			"name": "Lueng Bata",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171030,
+			"name": "Kuta Alam",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171031,
+			"name": "Kuta Raja",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171040,
+			"name": "Syiah Kuala",
+			"regency_id": 1171
+		},
+		{
+			"number": 1171041,
+			"name": "Ulee Kareng",
+			"regency_id": 1171
+		},
+		{
+			"number": 1172010,
+			"name": "Sukajaya",
+			"regency_id": 1172
+		},
+		{
+			"number": 1172020,
+			"name": "Sukakarya",
+			"regency_id": 1172
+		},
+		{
+			"number": 1173010,
+			"name": "Langsa Timur",
+			"regency_id": 1173
+		},
+		{
+			"number": 1173011,
+			"name": "Langsa Lama",
+			"regency_id": 1173
+		},
+		{
+			"number": 1173020,
+			"name": "Langsa Barat",
+			"regency_id": 1173
+		},
+		{
+			"number": 1173021,
+			"name": "Langsa Baro",
+			"regency_id": 1173
+		},
+		{
+			"number": 1173030,
+			"name": "Langsa Kota",
+			"regency_id": 1173
+		},
+		{
+			"number": 1174010,
+			"name": "Blang Mangat",
+			"regency_id": 1174
+		},
+		{
+			"number": 1174020,
+			"name": "Muara Dua",
+			"regency_id": 1174
+		},
+		{
+			"number": 1174021,
+			"name": "Muara Satu",
+			"regency_id": 1174
+		},
+		{
+			"number": 1174030,
+			"name": "Banda Sakti",
+			"regency_id": 1174
+		},
+		{
+			"number": 1175010,
+			"name": "Simpang Kiri",
+			"regency_id": 1175
+		},
+		{
+			"number": 1175020,
+			"name": "Penanggalan",
+			"regency_id": 1175
+		},
+		{
+			"number": 1175030,
+			"name": "Rundeng",
+			"regency_id": 1175
+		},
+		{
+			"number": 1175040,
+			"name": "Sultan Daulat",
+			"regency_id": 1175
+		},
+		{
+			"number": 1175050,
+			"name": "Longkib",
+			"regency_id": 1175
+		},
+		{
+			"number": 1201060,
+			"name": "Idano Gawo",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201061,
+			"name": "Bawolato",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201062,
+			"name": "Ulugawo",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201070,
+			"name": "Gido",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201071,
+			"name": "Sogaeadu",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201081,
+			"name": "Ma U",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201082,
+			"name": "Somolo - Molo",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201130,
+			"name": "Hiliduho",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201131,
+			"name": "Hili Serangkai",
+			"regency_id": 1201
+		},
+		{
+			"number": 1201132,
+			"name": "Botomuzoi",
+			"regency_id": 1201
+		},
+		{
+			"number": 1202010,
+			"name": "Batahan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202011,
+			"name": "Sinunukan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202020,
+			"name": "Batang Natal",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202021,
+			"name": "Lingga Bayu",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202022,
+			"name": "Ranto Baek",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202030,
+			"name": "Kotanopan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202031,
+			"name": "Ulu Pungkut",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202032,
+			"name": "Tambangan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202033,
+			"name": "Lembah Sorik Marapi",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202034,
+			"name": "Puncak Sorik Marapi",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202040,
+			"name": "Muara Sipongi",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202041,
+			"name": "Pakantan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202050,
+			"name": "Panyabungan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202051,
+			"name": "Panyabungan Selatan",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202052,
+			"name": "Panyabungan Barat",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202053,
+			"name": "Panyabungan Utara",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202054,
+			"name": "Panyabungan Timur",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202055,
+			"name": "Huta Bargot",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202060,
+			"name": "Natal",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202070,
+			"name": "Muara Batang Gadis",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202080,
+			"name": "Siabu",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202081,
+			"name": "Bukit Malintang",
+			"regency_id": 1202
+		},
+		{
+			"number": 1202082,
+			"name": "Naga Juang",
+			"regency_id": 1202
+		},
+		{
+			"number": 1203010,
+			"name": "Batang Angkola",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203011,
+			"name": "Sayur Matinggi",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203012,
+			"name": "Tano Tombangan Angkola",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203070,
+			"name": "Angkola Timur",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203080,
+			"name": "Angkola Selatan",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203090,
+			"name": "Angkola  Barat",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203091,
+			"name": "Angkola Sangkunur",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203100,
+			"name": "Batang Toru",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203101,
+			"name": "Marancar",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203102,
+			"name": "Muara Batang Toru",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203110,
+			"name": "Sipirok",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203120,
+			"name": "Arse",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203160,
+			"name": "Saipar Dolok Hole",
+			"regency_id": 1203
+		},
+		{
+			"number": 1203161,
+			"name": "Aek Bilah",
+			"regency_id": 1203
+		},
+		{
+			"number": 1204010,
+			"name": "Pinang Sori",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204011,
+			"name": "Badiri",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204020,
+			"name": "Sibabangun",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204021,
+			"name": "Lumut",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204022,
+			"name": "Sukabangun",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204030,
+			"name": "Pandan",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204031,
+			"name": "Tukka",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204032,
+			"name": "Sarudik",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204040,
+			"name": "Tapian Nauli",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204041,
+			"name": "Sitahuis",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204050,
+			"name": "Kolang",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204060,
+			"name": "Sorkam",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204061,
+			"name": "Sorkam Barat",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204062,
+			"name": "Pasaribu Tobing",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204070,
+			"name": "Barus",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204071,
+			"name": "Sosor Gadong",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204072,
+			"name": "Andam Dewi",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204073,
+			"name": "Barus Utara",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204080,
+			"name": "Manduamas",
+			"regency_id": 1204
+		},
+		{
+			"number": 1204081,
+			"name": "Sirandorung",
+			"regency_id": 1204
+		},
+		{
+			"number": 1205030,
+			"name": "Parmonangan",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205040,
+			"name": "Adiankoting",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205050,
+			"name": "Sipoholon",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205060,
+			"name": "Tarutung",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205061,
+			"name": "Siatas Barita",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205070,
+			"name": "Pahae Julu",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205080,
+			"name": "Pahae Jae",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205081,
+			"name": "Purbatua",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205082,
+			"name": "Simangumban",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205090,
+			"name": "Pangaribuan",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205100,
+			"name": "Garoga",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205110,
+			"name": "Sipahutar",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205120,
+			"name": "Siborongborong",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205130,
+			"name": "Pagaran",
+			"regency_id": 1205
+		},
+		{
+			"number": 1205180,
+			"name": "Muara",
+			"regency_id": 1205
+		},
+		{
+			"number": 1206030,
+			"name": "Balige",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206031,
+			"name": "Tampahan",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206040,
+			"name": "Laguboti",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206050,
+			"name": "Habinsaran",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206051,
+			"name": "Borbor",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206052,
+			"name": "Nassau",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206060,
+			"name": "Silaen",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206061,
+			"name": "Sigumpar",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206070,
+			"name": "Porsea",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206071,
+			"name": "Pintu Pohan Meranti",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206072,
+			"name": "Siantar Narumonda",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206073,
+			"name": "Parmaksian",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206080,
+			"name": "Lumban Julu",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206081,
+			"name": "Uluan",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206082,
+			"name": "Ajibata",
+			"regency_id": 1206
+		},
+		{
+			"number": 1206083,
+			"name": "Bonatua Lunasi",
+			"regency_id": 1206
+		},
+		{
+			"number": 1207050,
+			"name": "Bilah Hulu",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207070,
+			"name": "Pangkatan",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207080,
+			"name": "Bilah Barat",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207130,
+			"name": "Bilah Hilir",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207140,
+			"name": "Panai Hulu",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207150,
+			"name": "Panai Tengah",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207160,
+			"name": "Panai Hilir",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207210,
+			"name": "Rantau Selatan",
+			"regency_id": 1207
+		},
+		{
+			"number": 1207220,
+			"name": "Rantau Utara",
+			"regency_id": 1207
+		},
+		{
+			"number": 1208010,
+			"name": "Bandar Pasir Mandoge",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208020,
+			"name": "Bandar Pulau",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208021,
+			"name": "Aek Songsongan",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208022,
+			"name": "Rahuning",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208030,
+			"name": "Pulau Rakyat",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208031,
+			"name": "Aek Kuasan",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208032,
+			"name": "Aek Ledong",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208040,
+			"name": "Sei Kepayang",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208041,
+			"name": "Sei Kepayang Barat",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208042,
+			"name": "Sei Kepayang Timur",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208050,
+			"name": "Tanjung Balai",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208060,
+			"name": "Simpang Empat",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208061,
+			"name": "Teluk Dalam",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208070,
+			"name": "Air Batu",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208071,
+			"name": "Sei Dadap",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208080,
+			"name": "Buntu Pane",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208081,
+			"name": "Tinggi Raja",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208082,
+			"name": "Setia Janji",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208090,
+			"name": "Meranti",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208091,
+			"name": "Pulo Bandring",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208092,
+			"name": "Rawang Panca Arga",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208100,
+			"name": "Air Joman",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208101,
+			"name": "Silau Laut",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208160,
+			"name": "Kisaran Barat",
+			"regency_id": 1208
+		},
+		{
+			"number": 1208170,
+			"name": "Kisaran Timur",
+			"regency_id": 1208
+		},
+		{
+			"number": 1209010,
+			"name": "Silimakuta",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209011,
+			"name": "Pematang Silimahuta",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209020,
+			"name": "Purba",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209021,
+			"name": "Haranggaol Horison",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209040,
+			"name": "Sidamanik",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209041,
+			"name": "Pematang Sidamanik",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209050,
+			"name": "Girsang Sipangan Bolon",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209060,
+			"name": "Tanah Jawa",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209061,
+			"name": "Hatonduhan",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209070,
+			"name": "Dolok Panribuan",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209080,
+			"name": "Jorlang Hataran",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209090,
+			"name": "Panei",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209091,
+			"name": "Panombean Panei",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209100,
+			"name": "Raya",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209101,
+			"name": "Dolog Masagal",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209110,
+			"name": "Dolok Silau",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209120,
+			"name": "Silau Kahean",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209130,
+			"name": "Raya Kahean",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209140,
+			"name": "Tapian Dolok",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209150,
+			"name": "Dolok Batu Nanggar",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209160,
+			"name": "Siantar",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209161,
+			"name": "Gunung Malela",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209162,
+			"name": "Gunung Maligas",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209170,
+			"name": "Hutabayu Raja",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209171,
+			"name": "Jawa Maraja Bah Jambi",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209180,
+			"name": "Pematang Bandar",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209181,
+			"name": "Bandar Huluan",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209190,
+			"name": "Bandar",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209191,
+			"name": "Bandar Masilam",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209200,
+			"name": "Bosar Maligas",
+			"regency_id": 1209
+		},
+		{
+			"number": 1209210,
+			"name": "Ujung Padang",
+			"regency_id": 1209
+		},
+		{
+			"number": 1210030,
+			"name": "Sidikalang",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210031,
+			"name": "Berampu",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210032,
+			"name": "Sitinjo",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210040,
+			"name": "Parbuluan",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210050,
+			"name": "Sumbul",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210051,
+			"name": "Silahisabungan",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210060,
+			"name": "Silima Pungga-pungga",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210061,
+			"name": "Lae Parira",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210070,
+			"name": "Siempat Nempu",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210080,
+			"name": "Siempat Nempu Hulu",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210090,
+			"name": "Siempat Nempu Hilir",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210100,
+			"name": "Tiga Lingga",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210101,
+			"name": "Gunung Sitember",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210110,
+			"name": "Pegagan Hilir",
+			"regency_id": 1210
+		},
+		{
+			"number": 1210120,
+			"name": "Tanah Pinem",
+			"regency_id": 1210
+		},
+		{
+			"number": 1211010,
+			"name": "Mardingding",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211020,
+			"name": "Laubaleng",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211030,
+			"name": "Tiga Binanga",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211040,
+			"name": "Juhar",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211050,
+			"name": "Munte",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211060,
+			"name": "Kuta Buluh",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211070,
+			"name": "Payung",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211071,
+			"name": "Tiganderket",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211080,
+			"name": "Simpang Empat",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211081,
+			"name": "Naman Teran",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211082,
+			"name": "Merdeka",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211090,
+			"name": "Kabanjahe",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211100,
+			"name": "Berastagi",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211110,
+			"name": "Tigapanah",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211111,
+			"name": "Dolat Rayat",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211120,
+			"name": "Merek",
+			"regency_id": 1211
+		},
+		{
+			"number": 1211130,
+			"name": "Barusjahe",
+			"regency_id": 1211
+		},
+		{
+			"number": 1212010,
+			"name": "Gunung Meriah",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212020,
+			"name": "Sinembah Tanjung Muda Hulu",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212030,
+			"name": "Sibolangit",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212040,
+			"name": "Kutalimbaru",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212050,
+			"name": "Pancur Batu",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212060,
+			"name": "Namo Rambe",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212070,
+			"name": "Biru-biru",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212080,
+			"name": "Sinembah Tanjung Muda Hilir",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212090,
+			"name": "Bangun Purba",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212190,
+			"name": "Galang",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212200,
+			"name": "Tanjung Morawa",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212210,
+			"name": "Patumbak",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212220,
+			"name": "Deli Tua",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212230,
+			"name": "Sunggal",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212240,
+			"name": "Hamparan Perak",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212250,
+			"name": "Labuhan Deli",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212260,
+			"name": "Percut Sei Tuan",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212270,
+			"name": "Batang Kuis",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212280,
+			"name": "Pantai Labu",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212290,
+			"name": "Beringin",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212300,
+			"name": "Lubuk Pakam",
+			"regency_id": 1212
+		},
+		{
+			"number": 1212310,
+			"name": "Pagar Merbau",
+			"regency_id": 1212
+		},
+		{
+			"number": 1213010,
+			"name": "Bohorok",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213011,
+			"name": "Sirapit",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213020,
+			"name": "Salapian",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213021,
+			"name": "Kutambaru",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213030,
+			"name": "Sei Bingai",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213040,
+			"name": "Kuala",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213050,
+			"name": "Selesai",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213060,
+			"name": "Binjai",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213070,
+			"name": "Stabat",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213080,
+			"name": "Wampu",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213090,
+			"name": "Batang Serangan",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213100,
+			"name": "Sawit Seberang",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213110,
+			"name": "Padang Tualang",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213120,
+			"name": "Hinai",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213130,
+			"name": "Secanggang",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213140,
+			"name": "Tanjung Pura",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213150,
+			"name": "Gebang",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213160,
+			"name": "Babalan",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213170,
+			"name": "Sei Lepan",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213180,
+			"name": "Brandan Barat",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213190,
+			"name": "Besitang",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213200,
+			"name": "Pangkalan Susu",
+			"regency_id": 1213
+		},
+		{
+			"number": 1213201,
+			"name": "Pematang Jaya",
+			"regency_id": 1213
+		},
+		{
+			"number": 1214010,
+			"name": "Hibala",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214011,
+			"name": "Tanah Masa",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214020,
+			"name": "Pulau-pulau Batu",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214021,
+			"name": "Pulau-pulau Batu Timur",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214022,
+			"name": "Simuk",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214023,
+			"name": "Pulau-pulau Batu Barat",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214024,
+			"name": "Pulau-pulau Batu Utara",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214030,
+			"name": "Teluk Dalam",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214031,
+			"name": "Fanayama",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214032,
+			"name": "Toma",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214033,
+			"name": "Maniamolo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214034,
+			"name": "Mazino",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214035,
+			"name": "Luahagundre Maniamolo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214036,
+			"name": "Onolalu",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214040,
+			"name": "Amandraya",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214041,
+			"name": "Aramo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214042,
+			"name": "Ulususua",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214050,
+			"name": "Lahusa",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214051,
+			"name": "Siduaori",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214052,
+			"name": "Somambawa",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214060,
+			"name": "Gomo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214061,
+			"name": "Susua",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214062,
+			"name": "Mazo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214063,
+			"name": "Umbunasi",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214064,
+			"name": "Idanotae",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214065,
+			"name": "Uluidanotae",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214066,
+			"name": "Boronadu",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214070,
+			"name": "Lolomatua",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214071,
+			"name": "Ulunoyo",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214072,
+			"name": "Huruna",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214080,
+			"name": "Lolowa\"u",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214081,
+			"name": "Hilimegai",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214082,
+			"name": "Oou",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214083,
+			"name": "Onohazumba",
+			"regency_id": 1214
+		},
+		{
+			"number": 1214084,
+			"name": "Hilisalawaahe",
+			"regency_id": 1214
+		},
+		{
+			"number": 1215010,
+			"name": "Pakkat",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215020,
+			"name": "Onan Ganjang",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215030,
+			"name": "Sijama Polang",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215040,
+			"name": "Dolok Sanggul",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215050,
+			"name": "Lintong Nihuta",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215060,
+			"name": "Paranginan",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215070,
+			"name": "Bakti Raja",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215080,
+			"name": "Pollung",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215090,
+			"name": "Parlilitan",
+			"regency_id": 1215
+		},
+		{
+			"number": 1215100,
+			"name": "Tara Bintang",
+			"regency_id": 1215
+		},
+		{
+			"number": 1216010,
+			"name": "Salak",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216011,
+			"name": "Sitellu Tali Urang Jehe",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216012,
+			"name": "Pagindar",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216013,
+			"name": "Sitellu Tali Urang Julu",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216014,
+			"name": "Pergetteng-getteng Sengkut",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216020,
+			"name": "Kerajaan",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216021,
+			"name": "Tinada",
+			"regency_id": 1216
+		},
+		{
+			"number": 1216022,
+			"name": "Siempat Rube",
+			"regency_id": 1216
+		},
+		{
+			"number": 1217010,
+			"name": "Sianjur Mula Mula",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217020,
+			"name": "Harian",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217030,
+			"name": "Sitio-tio",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217040,
+			"name": "Onan Runggu",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217050,
+			"name": "Nainggolan",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217060,
+			"name": "Palipi",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217070,
+			"name": "Ronggur Nihuta",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217080,
+			"name": "Pangururan",
+			"regency_id": 1217
+		},
+		{
+			"number": 1217090,
+			"name": "Simanindo",
+			"regency_id": 1217
+		},
+		{
+			"number": 1218010,
+			"name": "Kotarih",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218011,
+			"name": "Silinda",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218012,
+			"name": "Bintang Bayu",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218020,
+			"name": "Dolok Masihul",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218021,
+			"name": "Serbajadi",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218030,
+			"name": "Sipispis",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218040,
+			"name": "Dolok Merawan",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218050,
+			"name": "Tebingtinggi",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218051,
+			"name": "Tebing Syahbandar",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218060,
+			"name": "Bandar Khalipah",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218070,
+			"name": "Tanjung Beringin",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218080,
+			"name": "Sei Rampah",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218081,
+			"name": "Sei Bamban",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218090,
+			"name": "Teluk Mengkudu",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218100,
+			"name": "Perbaungan",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218101,
+			"name": "Pegajahan",
+			"regency_id": 1218
+		},
+		{
+			"number": 1218110,
+			"name": "Pantai Cermin",
+			"regency_id": 1218
+		},
+		{
+			"number": 1219010,
+			"name": "Sei Balai",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219020,
+			"name": "Tanjung Tiram",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219021,
+			"name": "Nibung Hangus",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219030,
+			"name": "Talawi",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219031,
+			"name": "Datuk Tanah Datar",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219040,
+			"name": "Limapuluh",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219041,
+			"name": "Lima Puluh Pesisir",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219042,
+			"name": "Datuk Lima Puluh",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219050,
+			"name": "Air Putih",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219060,
+			"name": "Sei Suka",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219061,
+			"name": "Laut Tador",
+			"regency_id": 1219
+		},
+		{
+			"number": 1219070,
+			"name": "Medang Deras",
+			"regency_id": 1219
+		},
+		{
+			"number": 1220010,
+			"name": "Batang Onang",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220020,
+			"name": "Padang Bolak Julu",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220030,
+			"name": "Portibi",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220040,
+			"name": "Padang Bolak",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220041,
+			"name": "Padang Bolak Tenggara",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220050,
+			"name": "Simangambat",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220051,
+			"name": "Ujung Batu",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220060,
+			"name": "Halongonan",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220061,
+			"name": "Halongonan Timur",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220070,
+			"name": "Dolok",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220080,
+			"name": "Dolok Sigompulon",
+			"regency_id": 1220
+		},
+		{
+			"number": 1220090,
+			"name": "Hulu Sihapas",
+			"regency_id": 1220
+		},
+		{
+			"number": 1221010,
+			"name": "Sosopan",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221020,
+			"name": "Ulu Barumun",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221030,
+			"name": "Barumun",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221031,
+			"name": "Barumun Selatan",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221040,
+			"name": "Lubuk Barumun",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221050,
+			"name": "Sosa",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221060,
+			"name": "Batang Lubu Sutam",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221070,
+			"name": "Huta Raja Tinggi",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221080,
+			"name": "Huristak",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221090,
+			"name": "Barumun Tengah",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221091,
+			"name": "Aek Nabara Barumun",
+			"regency_id": 1221
+		},
+		{
+			"number": 1221092,
+			"name": "Sihapas Barumun",
+			"regency_id": 1221
+		},
+		{
+			"number": 1222010,
+			"name": "Sungai Kanan",
+			"regency_id": 1222
+		},
+		{
+			"number": 1222020,
+			"name": "Torgamba",
+			"regency_id": 1222
+		},
+		{
+			"number": 1222030,
+			"name": "Kota Pinang",
+			"regency_id": 1222
+		},
+		{
+			"number": 1222040,
+			"name": "Silangkitang",
+			"regency_id": 1222
+		},
+		{
+			"number": 1222050,
+			"name": "Kampung Rakyat",
+			"regency_id": 1222
+		},
+		{
+			"number": 1223010,
+			"name": "Na Ix-x",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223020,
+			"name": "Marbau",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223030,
+			"name": "Aek Kuo",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223040,
+			"name": "Aek Natas",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223050,
+			"name": "Kualuh Selatan",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223060,
+			"name": "Kualuh Hilir",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223070,
+			"name": "Kualuh Hulu",
+			"regency_id": 1223
+		},
+		{
+			"number": 1223080,
+			"name": "Kualuh Leidong",
+			"regency_id": 1223
+		},
+		{
+			"number": 1224010,
+			"name": "Tugala Oyo",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224020,
+			"name": "Alasa",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224030,
+			"name": "Alasa Talu Muzoi",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224040,
+			"name": "Namohalu Esiwa",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224050,
+			"name": "Sitolu Ori",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224060,
+			"name": "Tuhemberua",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224070,
+			"name": "Sawo",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224080,
+			"name": "Lotu",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224090,
+			"name": "Lahewa Timur",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224100,
+			"name": "Afulu",
+			"regency_id": 1224
+		},
+		{
+			"number": 1224110,
+			"name": "Lahewa",
+			"regency_id": 1224
+		},
+		{
+			"number": 1225010,
+			"name": "Sirombu",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225020,
+			"name": "Lahomi",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225030,
+			"name": "Ulu Moro O",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225040,
+			"name": "Lolofitu Moi",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225050,
+			"name": "Mandrehe Utara",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225060,
+			"name": "Mandrehe",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225070,
+			"name": "Mandrehe Barat",
+			"regency_id": 1225
+		},
+		{
+			"number": 1225080,
+			"name": "Moro O",
+			"regency_id": 1225
+		},
+		{
+			"number": 1271010,
+			"name": "Sibolga Utara",
+			"regency_id": 1271
+		},
+		{
+			"number": 1271020,
+			"name": "Sibolga Kota",
+			"regency_id": 1271
+		},
+		{
+			"number": 1271030,
+			"name": "Sibolga Selatan",
+			"regency_id": 1271
+		},
+		{
+			"number": 1271031,
+			"name": "Sibolga Sambas",
+			"regency_id": 1271
+		},
+		{
+			"number": 1272010,
+			"name": "Datuk Bandar",
+			"regency_id": 1272
+		},
+		{
+			"number": 1272011,
+			"name": "Datuk Bandar Timur",
+			"regency_id": 1272
+		},
+		{
+			"number": 1272020,
+			"name": "Tanjung Balai Selatan",
+			"regency_id": 1272
+		},
+		{
+			"number": 1272030,
+			"name": "Tanjung Balai Utara",
+			"regency_id": 1272
+		},
+		{
+			"number": 1272040,
+			"name": "Sei Tualang Raso",
+			"regency_id": 1272
+		},
+		{
+			"number": 1272050,
+			"name": "Teluk Nibung",
+			"regency_id": 1272
+		},
+		{
+			"number": 1273010,
+			"name": "Siantar Marihat",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273011,
+			"name": "Siantar Marimbun",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273020,
+			"name": "Siantar Selatan",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273030,
+			"name": "Siantar Barat",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273040,
+			"name": "Siantar Utara",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273050,
+			"name": "Siantar Timur",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273060,
+			"name": "Siantar Martoba",
+			"regency_id": 1273
+		},
+		{
+			"number": 1273061,
+			"name": "Siantar Sitalasari",
+			"regency_id": 1273
+		},
+		{
+			"number": 1274010,
+			"name": "Padang Hulu",
+			"regency_id": 1274
+		},
+		{
+			"number": 1274011,
+			"name": "Tebing Tinggi Kota",
+			"regency_id": 1274
+		},
+		{
+			"number": 1274020,
+			"name": "Rambutan",
+			"regency_id": 1274
+		},
+		{
+			"number": 1274021,
+			"name": "Bajenis",
+			"regency_id": 1274
+		},
+		{
+			"number": 1274030,
+			"name": "Padang Hilir",
+			"regency_id": 1274
+		},
+		{
+			"number": 1275010,
+			"name": "Medan Tuntungan",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275020,
+			"name": "Medan Johor",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275030,
+			"name": "Medan Amplas",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275040,
+			"name": "Medan Denai",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275050,
+			"name": "Medan Area",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275060,
+			"name": "Medan Kota",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275070,
+			"name": "Medan Maimun",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275080,
+			"name": "Medan Polonia",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275090,
+			"name": "Medan Baru",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275100,
+			"name": "Medan Selayang",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275110,
+			"name": "Medan Sunggal",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275120,
+			"name": "Medan Helvetia",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275130,
+			"name": "Medan Petisah",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275140,
+			"name": "Medan Barat",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275150,
+			"name": "Medan Timur",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275160,
+			"name": "Medan Perjuangan",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275170,
+			"name": "Medan Tembung",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275180,
+			"name": "Medan Deli",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275190,
+			"name": "Medan Labuhan",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275200,
+			"name": "Medan Marelan",
+			"regency_id": 1275
+		},
+		{
+			"number": 1275210,
+			"name": "Medan Belawan",
+			"regency_id": 1275
+		},
+		{
+			"number": 1276010,
+			"name": "Binjai Selatan",
+			"regency_id": 1276
+		},
+		{
+			"number": 1276020,
+			"name": "Binjai Kota",
+			"regency_id": 1276
+		},
+		{
+			"number": 1276030,
+			"name": "Binjai Timur",
+			"regency_id": 1276
+		},
+		{
+			"number": 1276040,
+			"name": "Binjai Utara",
+			"regency_id": 1276
+		},
+		{
+			"number": 1276050,
+			"name": "Binjai Barat",
+			"regency_id": 1276
+		},
+		{
+			"number": 1277010,
+			"name": "Padangsidimpuan Tenggara",
+			"regency_id": 1277
+		},
+		{
+			"number": 1277020,
+			"name": "Padangsidimpuan Selatan",
+			"regency_id": 1277
+		},
+		{
+			"number": 1277030,
+			"name": "Padangsidimpuan Batunadua",
+			"regency_id": 1277
+		},
+		{
+			"number": 1277040,
+			"name": "Padangsidimpuan Utara",
+			"regency_id": 1277
+		},
+		{
+			"number": 1277050,
+			"name": "Padangsidimpuan Hutaimbaru",
+			"regency_id": 1277
+		},
+		{
+			"number": 1277051,
+			"name": "Padangsidimpuan Angkola Julu",
+			"regency_id": 1277
+		},
+		{
+			"number": 1278010,
+			"name": "Gunungsitoli Idanoi",
+			"regency_id": 1278
+		},
+		{
+			"number": 1278020,
+			"name": "Gunungsitoli Selatan",
+			"regency_id": 1278
+		},
+		{
+			"number": 1278030,
+			"name": "Gunungsitoli Barat",
+			"regency_id": 1278
+		},
+		{
+			"number": 1278040,
+			"name": "Gunung Sitoli",
+			"regency_id": 1278
+		},
+		{
+			"number": 1278050,
+			"name": "Gunungsitoli Alo Oa",
+			"regency_id": 1278
+		},
+		{
+			"number": 1278060,
+			"name": "Gunungsitoli Utara",
+			"regency_id": 1278
+		},
+		{
+			"number": 1301011,
+			"name": "Pagai Selatan",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301012,
+			"name": "Sikakap",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301013,
+			"name": "Pagai Utara",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301021,
+			"name": "Sipora Selatan",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301022,
+			"name": "Sipora Utara",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301030,
+			"name": "Siberut Selatan",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301031,
+			"name": "Seberut Barat Daya",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301032,
+			"name": "Siberut Tengah",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301040,
+			"name": "Siberut Utara",
+			"regency_id": 1301
+		},
+		{
+			"number": 1301041,
+			"name": "Siberut Barat",
+			"regency_id": 1301
+		},
+		{
+			"number": 1302011,
+			"name": "Silaut",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302012,
+			"name": "Lunang",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302020,
+			"name": "Basa Ampek Balai Tapan",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302021,
+			"name": "Ranah Ampek Hulu Tapan",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302030,
+			"name": "Pancung Soal",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302031,
+			"name": "Airpura",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302040,
+			"name": "Linggo Sari Baganti",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302050,
+			"name": "Ranah Pesisir",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302060,
+			"name": "Lengayang",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302070,
+			"name": "Sutera",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302080,
+			"name": "Batang Kapas",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302090,
+			"name": "Iv Jurai",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302100,
+			"name": "Bayang",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302101,
+			"name": "Iv  Nagari Bayang Utara",
+			"regency_id": 1302
+		},
+		{
+			"number": 1302110,
+			"name": "Koto Xi Tarusan",
+			"regency_id": 1302
+		},
+		{
+			"number": 1303040,
+			"name": "Pantai Cermin",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303050,
+			"name": "Lembah Gumanti",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303051,
+			"name": "Hiliran Gumanti",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303060,
+			"name": "Payung Sekaki",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303061,
+			"name": "Tigo Lurah",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303070,
+			"name": "Lembang Jaya",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303071,
+			"name": "Danau Kembar",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303080,
+			"name": "Gunung Talang",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303090,
+			"name": "Bukit Sundi",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303100,
+			"name": "Ix Koto Sungai Lasi",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303110,
+			"name": "Kubung",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303120,
+			"name": "X Koto Diatas",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303130,
+			"name": "X Koto Singkarak",
+			"regency_id": 1303
+		},
+		{
+			"number": 1303140,
+			"name": "Junjung Sirih",
+			"regency_id": 1303
+		},
+		{
+			"number": 1304050,
+			"name": "Kamang Baru",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304060,
+			"name": "Tanjung Gadang",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304070,
+			"name": "Sijunjung",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304071,
+			"name": "Lubuk Tarok",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304080,
+			"name": "Iv Nagari",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304090,
+			"name": "Kupitan",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304100,
+			"name": "Koto Tujuh",
+			"regency_id": 1304
+		},
+		{
+			"number": 1304110,
+			"name": "Sumpur Kudus",
+			"regency_id": 1304
+		},
+		{
+			"number": 1305010,
+			"name": "Sepuluh Koto",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305020,
+			"name": "Batipuh",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305021,
+			"name": "Batipuh Selatan",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305030,
+			"name": "Pariangan",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305040,
+			"name": "Rambatan",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305050,
+			"name": "Lima Kaum",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305060,
+			"name": "Tanjung Emas",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305070,
+			"name": "Padang Ganting",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305080,
+			"name": "Lintau Buo",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305081,
+			"name": "Lintau Buo Utara",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305090,
+			"name": "Sungayang",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305100,
+			"name": "Sungai Tarab",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305110,
+			"name": "Salimpaung",
+			"regency_id": 1305
+		},
+		{
+			"number": 1305111,
+			"name": "Tanjung Baru",
+			"regency_id": 1305
+		},
+		{
+			"number": 1306010,
+			"name": "Batang Anai",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306020,
+			"name": "Lubuk Alung",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306021,
+			"name": "Sintuk Toboh Gadang",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306030,
+			"name": "Ulakan Tapakis",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306040,
+			"name": "Nan Sabaris",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306050,
+			"name": "2 X 11 Enam Lingkung",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306051,
+			"name": "Enam Lingkung",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306052,
+			"name": "2 X 11 Kayu Tanam",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306060,
+			"name": "Vii Koto Sungai Sariak",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306061,
+			"name": "Patamuan",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306062,
+			"name": "Padang Sago",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306070,
+			"name": "V Koto Kp Dalam",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306071,
+			"name": "V Koto Timur",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306080,
+			"name": "Sungai Limau",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306081,
+			"name": "Batang Gasan",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306090,
+			"name": "Sungai Geringging",
+			"regency_id": 1306
+		},
+		{
+			"number": 1306100,
+			"name": "Iv Koto Aur Malintang",
+			"regency_id": 1306
+		},
+		{
+			"number": 1307010,
+			"name": "Tanjung Mutiara",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307020,
+			"name": "Lubuk Basung",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307021,
+			"name": "Ampek Nagari",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307030,
+			"name": "Tanjung Raya",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307040,
+			"name": "Matur",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307050,
+			"name": "Iv Koto",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307051,
+			"name": "Malalak",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307061,
+			"name": "Banuhampu",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307062,
+			"name": "Sungai Pua",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307070,
+			"name": "Ampek Angkek",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307071,
+			"name": "Canduang",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307080,
+			"name": "Baso",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307090,
+			"name": "Tilatang Kamang",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307091,
+			"name": "Kamang Magek",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307100,
+			"name": "Palembayan",
+			"regency_id": 1307
+		},
+		{
+			"number": 1307110,
+			"name": "Palupuh",
+			"regency_id": 1307
+		},
+		{
+			"number": 1308010,
+			"name": "Payakumbuh",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308011,
+			"name": "Akabiluru",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308020,
+			"name": "Luak",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308021,
+			"name": "Lareh Sago Halaban",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308022,
+			"name": "Situjuah Limo Nagari",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308030,
+			"name": "Harau",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308040,
+			"name": "Guguak",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308041,
+			"name": "Mungka",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308050,
+			"name": "Suliki",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308051,
+			"name": "Bukik Barisan",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308060,
+			"name": "Gunuang Omeh",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308070,
+			"name": "Kapur Ix",
+			"regency_id": 1308
+		},
+		{
+			"number": 1308080,
+			"name": "Pangkalan Koto Baru",
+			"regency_id": 1308
+		},
+		{
+			"number": 1309070,
+			"name": "Bonjol",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309071,
+			"name": "Tigo Nagari",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309072,
+			"name": "Simpang Alahan Mati",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309080,
+			"name": "Lubuk Sikaping",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309100,
+			"name": "Dua Koto",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309110,
+			"name": "Panti",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309111,
+			"name": "Padang Gelugur",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309121,
+			"name": "Rao",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309122,
+			"name": "Mapat Tunggul",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309123,
+			"name": "Mapat Tunggul Selatan",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309124,
+			"name": "Rao Selatan",
+			"regency_id": 1309
+		},
+		{
+			"number": 1309125,
+			"name": "Rao Utara",
+			"regency_id": 1309
+		},
+		{
+			"number": 1310010,
+			"name": "Sangir",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310020,
+			"name": "Sangir Jujuan",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310021,
+			"name": "Sangir Balai Janggo",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310030,
+			"name": "Sangir Batang Hari",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310040,
+			"name": "Sungai Pagu",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310041,
+			"name": "Pauah Duo",
+			"regency_id": 1310
+		},
+		{
+			"number": 1310050,
+			"name": "Koto Parik Gadang Diateh",
+			"regency_id": 1310
+		},
+		{
+			"number": 1311010,
+			"name": "Sungai Rumbai",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311011,
+			"name": "Koto Besar",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311012,
+			"name": "Asam Jujuhan",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311020,
+			"name": "Koto Baru",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311021,
+			"name": "Koto Salak",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311022,
+			"name": "Tiumang",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311023,
+			"name": "Padang Laweh",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311030,
+			"name": "Sitiung",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311031,
+			"name": "Timpeh",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311040,
+			"name": "Pulau Punjung",
+			"regency_id": 1311
+		},
+		{
+			"number": 1311041,
+			"name": "Ix Koto",
+			"regency_id": 1311
+		},
+		{
+			"number": 1312010,
+			"name": "Sungai Beremas",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312020,
+			"name": "Ranah Batahan",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312030,
+			"name": "Koto Balingka",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312040,
+			"name": "Sungai Aur",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312050,
+			"name": "Lembah Malintang",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312060,
+			"name": "Gunung Tuleh",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312070,
+			"name": "Talamau",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312080,
+			"name": "Pasaman",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312090,
+			"name": "Luhak Nan Duo",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312100,
+			"name": "Sasak Ranah Pasisie",
+			"regency_id": 1312
+		},
+		{
+			"number": 1312110,
+			"name": "Kinali",
+			"regency_id": 1312
+		},
+		{
+			"number": 1371010,
+			"name": "Bungus Teluk Kabung",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371020,
+			"name": "Lubuk Kilangan",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371030,
+			"name": "Lubuk Begalung",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371040,
+			"name": "Padang Selatan",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371050,
+			"name": "Padang Timur",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371060,
+			"name": "Padang Barat",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371070,
+			"name": "Padang Utara",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371080,
+			"name": "Nanggalo",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371090,
+			"name": "Kuranji",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371100,
+			"name": "Pauh",
+			"regency_id": 1371
+		},
+		{
+			"number": 1371110,
+			"name": "Koto Tangah",
+			"regency_id": 1371
+		},
+		{
+			"number": 1372010,
+			"name": "Lubuk Sikarah",
+			"regency_id": 1372
+		},
+		{
+			"number": 1372020,
+			"name": "Tanjung Harapan",
+			"regency_id": 1372
+		},
+		{
+			"number": 1373010,
+			"name": "Silungkang",
+			"regency_id": 1373
+		},
+		{
+			"number": 1373020,
+			"name": "Lembah Segar",
+			"regency_id": 1373
+		},
+		{
+			"number": 1373030,
+			"name": "Barangin",
+			"regency_id": 1373
+		},
+		{
+			"number": 1373040,
+			"name": "Talawi",
+			"regency_id": 1373
+		},
+		{
+			"number": 1374010,
+			"name": "Padang Panjang Barat",
+			"regency_id": 1374
+		},
+		{
+			"number": 1374020,
+			"name": "Padang Panjang Timur",
+			"regency_id": 1374
+		},
+		{
+			"number": 1375010,
+			"name": "Guguk Panjang",
+			"regency_id": 1375
+		},
+		{
+			"number": 1375020,
+			"name": "Mandiangin Koto Selayan",
+			"regency_id": 1375
+		},
+		{
+			"number": 1375030,
+			"name": "Aur Birugo Tigo Baleh",
+			"regency_id": 1375
+		},
+		{
+			"number": 1376010,
+			"name": "Payakumbuh Barat",
+			"regency_id": 1376
+		},
+		{
+			"number": 1376011,
+			"name": "Payakumbuh Selatan",
+			"regency_id": 1376
+		},
+		{
+			"number": 1376020,
+			"name": "Payakumbuh Timur",
+			"regency_id": 1376
+		},
+		{
+			"number": 1376030,
+			"name": "Payakumbuh Utara",
+			"regency_id": 1376
+		},
+		{
+			"number": 1376031,
+			"name": "Lamposi Tigo Nagori",
+			"regency_id": 1376
+		},
+		{
+			"number": 1377010,
+			"name": "Pariaman Selatan",
+			"regency_id": 1377
+		},
+		{
+			"number": 1377020,
+			"name": "Pariaman Tengah",
+			"regency_id": 1377
+		},
+		{
+			"number": 1377021,
+			"name": "Pariaman Timur",
+			"regency_id": 1377
+		},
+		{
+			"number": 1377030,
+			"name": "Pariaman Utara",
+			"regency_id": 1377
+		},
+		{
+			"number": 1401010,
+			"name": "Kuantan Mudik",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401011,
+			"name": "Hulu Kuantan",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401012,
+			"name": "Gunung Toar",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401013,
+			"name": "Pucuk Rantau",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401020,
+			"name": "Singingi",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401021,
+			"name": "Singingi Hilir",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401030,
+			"name": "Kuantan Tengah",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401031,
+			"name": "Sentajo Raya",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401040,
+			"name": "Benai",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401050,
+			"name": "Kuantan Hilir",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401051,
+			"name": "Pangean",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401052,
+			"name": "Logas Tanah Darat",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401053,
+			"name": "Kuantan Hilir Seberang",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401060,
+			"name": "Cerenti",
+			"regency_id": 1401
+		},
+		{
+			"number": 1401061,
+			"name": "Inuman",
+			"regency_id": 1401
+		},
+		{
+			"number": 1402010,
+			"name": "Peranap",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402011,
+			"name": "Batang Peranap",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402020,
+			"name": "Seberida",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402021,
+			"name": "Batang Cenaku",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402022,
+			"name": "Batang Gansal",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402030,
+			"name": "Kelayang",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402031,
+			"name": "Rakit Kulim",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402040,
+			"name": "Pasir Penyu",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402041,
+			"name": "Lirik",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402042,
+			"name": "Sungai Lala",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402043,
+			"name": "Lubuk Batu Jaya",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402050,
+			"name": "Rengat Barat",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402060,
+			"name": "Rengat",
+			"regency_id": 1402
+		},
+		{
+			"number": 1402061,
+			"name": "Kuala Cenaku",
+			"regency_id": 1402
+		},
+		{
+			"number": 1403010,
+			"name": "Keritang",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403011,
+			"name": "Kemuning",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403020,
+			"name": "Reteh",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403021,
+			"name": "Sungai Batang",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403030,
+			"name": "Enok",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403040,
+			"name": "Tanah Merah",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403050,
+			"name": "Kuala Indragiri",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403051,
+			"name": "Concong",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403060,
+			"name": "Tembilahan",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403061,
+			"name": "Tembilahan Hulu",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403070,
+			"name": "Tempuling",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403071,
+			"name": "Kempas",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403080,
+			"name": "Batang Tuaka",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403090,
+			"name": "Gaung Anak Serka",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403100,
+			"name": "Gaung",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403110,
+			"name": "Mandah",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403120,
+			"name": "Kateman",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403121,
+			"name": "Pelangiran",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403122,
+			"name": "Teluk Belengkong",
+			"regency_id": 1403
+		},
+		{
+			"number": 1403123,
+			"name": "Pulau Burung",
+			"regency_id": 1403
+		},
+		{
+			"number": 1404010,
+			"name": "Langgam",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404011,
+			"name": "Pangkalan Kerinci",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404012,
+			"name": "Bandar Seikijang",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404020,
+			"name": "Pangkalan Kuras",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404021,
+			"name": "Ukui",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404022,
+			"name": "Pangkalan Lesung",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404030,
+			"name": "Bunut",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404031,
+			"name": "Pelalawan",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404032,
+			"name": "Bandar Petalangan",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404040,
+			"name": "Kuala Kampar",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404041,
+			"name": "Kerumutan",
+			"regency_id": 1404
+		},
+		{
+			"number": 1404042,
+			"name": "Teluk Meranti",
+			"regency_id": 1404
+		},
+		{
+			"number": 1405010,
+			"name": "Minas",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405011,
+			"name": "Sungai Mandau",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405012,
+			"name": "Kandis",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405020,
+			"name": "Siak",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405021,
+			"name": "Kerinci Kanan",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405022,
+			"name": "Tualang",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405023,
+			"name": "Dayun",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405024,
+			"name": "Lubuk Dalam",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405025,
+			"name": "Koto Gasib",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405026,
+			"name": "Mempura",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405030,
+			"name": "Sungai Apit",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405031,
+			"name": "Bunga Raya",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405032,
+			"name": "Sabak Auh",
+			"regency_id": 1405
+		},
+		{
+			"number": 1405033,
+			"name": "Pusako",
+			"regency_id": 1405
+		},
+		{
+			"number": 1406010,
+			"name": "Kampar Kiri",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406011,
+			"name": "Kampar Kiri Hulu",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406012,
+			"name": "Kampar Kiri Hilir",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406013,
+			"name": "Gunung Sahilan",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406014,
+			"name": "Kampar Kiri Tengah",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406020,
+			"name": "Xiii Koto Kampar",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406021,
+			"name": "Koto Kampar Hulu",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406030,
+			"name": "Kuok",
+			"regency_id": 1406
+		},
+		{
+			"number": 1406031,
+			"name": "Salo",
+			"regency_id": 1406
+		}
+	]
